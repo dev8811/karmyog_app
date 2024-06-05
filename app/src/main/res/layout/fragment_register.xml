@@ -35,6 +35,7 @@
                 android:background="@color/white"
                 android:hint="Name"
                 android:padding="8dp"
+                android:textColor="@color/black"
                 android:textColorHint="@color/black" />
         </androidx.cardview.widget.CardView>
 
@@ -61,6 +62,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="@color/white"
+                android:textColor="@color/black"
                 android:hint="Age"
                 android:padding="8dp"
                 android:textColorHint="@color/black" />
@@ -79,6 +81,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="@color/white"
+                android:textColor="@color/black"
                 android:hint="Current Address"
                 android:padding="8dp"
                 android:textColorHint="@color/black" />
@@ -97,6 +100,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="@color/white"
+                android:textColor="@color/black"
                 android:hint="Aadhar Card Number"
                 android:padding="8dp"
                 android:textColorHint="@color/black" />
@@ -138,6 +142,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="@color/white"
+                android:textColor="@color/black"
                 android:hint="Mobile Number"
                 android:padding="10dp"
                 android:textColorHint="@color/black" />
@@ -156,6 +161,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="@color/white"
+                android:textColor="@color/black"
                 android:hint="Have Any sickness"
                 android:inputType="text"
                 android:padding="8dp"
@@ -175,6 +181,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="@color/white"
+                android:textColor="@color/black"
                 android:hint="Children informations"
                 android:inputType="text"
                 android:padding="8dp"
@@ -195,6 +202,7 @@
                 android:background="@color/white"
                 android:hint="Children mobile number"
                 android:inputType="text"
+                android:textColor="@color/black"
                 android:padding="8dp"
                 android:textColorHint="@color/black" />
         </androidx.cardview.widget.CardView>
@@ -212,6 +220,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="@color/white"
+                android:textColor="@color/black"
                 android:hint="Every needed medicine"
                 android:padding="8dp"
                 android:textColorHint="@color/black" />
@@ -240,6 +249,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="@color/white"
+                android:textColor="@color/black"
                 android:hint="Name"
                 android:padding="8dp"
                 android:textColorHint="@color/black" />
@@ -257,6 +267,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="@color/white"
+                android:textColor="@color/black"
                 android:hint="Aadhar Card Number"
                 android:padding="8dp"
                 android:textColorHint="@color/black" />
@@ -299,6 +310,7 @@
                 android:layout_height="wrap_content"
                 android:background="@color/white"
                 android:hint="Mobile Number"
+                android:textColor="@color/black"
                 android:padding="10dp"
                 android:textColorHint="@color/black" />
         </androidx.cardview.widget.CardView>
@@ -316,6 +328,7 @@
                 android:layout_height="wrap_content"
                 android:background="@color/white"
                 android:hint="Current Address"
+                android:textColor="@color/black"
                 android:padding="8dp"
                 android:textColorHint="@color/black" />
         </androidx.cardview.widget.CardView>

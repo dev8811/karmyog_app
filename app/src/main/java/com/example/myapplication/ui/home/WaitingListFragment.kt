@@ -39,8 +39,6 @@ class WaitingListFragment : Fragment() {
             WaitingListItem("Jane Smith", "Waiting since 10:30 AM"),
             WaitingListItem("Jane Smith", "Waiting since 10:30 AM"),
             WaitingListItem("Jane Smith", "Waiting since 10:30 AM"),
-
-            // Add more items here
         )
 
         waitingListAdapter = WaitingListAdapter(waitingList)
